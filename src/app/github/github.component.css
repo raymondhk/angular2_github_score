@@ -1,0 +1,13 @@
+.box{
+  border: 1px solid gray;
+  height: 300px;
+  padding: 0px 20px 20px 20px;
+}
+input{
+  width: 50%;
+}
+#result{
+  border-left: 1px solid gray;
+  margin-top: 50px;
+  height: 200px;
+}
